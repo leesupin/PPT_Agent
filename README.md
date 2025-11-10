@@ -23,7 +23,6 @@ Step1_AI_강사_Agent_v1.0/
 ├── utils/
 │   ├── text_utils.py
 │   ├── media_utils.py
-│   └── common_utils.py
 │
 ├── nodes/
 │   ├── node_parse_ppt.py
@@ -37,7 +36,6 @@ Step1_AI_강사_Agent_v1.0/
 │
 ├── app/
 │   ├── main_gradio.py
-│   └── main_colab_test.py
 │
 └── data/
     ├── sample1.pptx

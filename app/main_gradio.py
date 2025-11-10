@@ -1,7 +1,6 @@
 import os, gradio as gr
 from graph.build_graph import build_agent_graph
 from typing import TypedDict, List, Dict
-from openai import OpenAI
 
 class State(TypedDict, total=False):
     pptx_path: str

@@ -1,4 +1,4 @@
-# Step1_AI 강사 Agent v1.0
+# AI 강사 Agent 
 
 AI 강의 영상을 자동 생성하는 LangGraph 기반 Agent 시스템입니다.
 
